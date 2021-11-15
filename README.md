@@ -26,4 +26,4 @@ __int64 __fastcall sub_27360(__int64 a1, char* scriptName, char* a3) {
 ```
 
 
-This Executor is Proof-of-Concept which means its not always hard so keep going also if Nk or any other retards claim statements like executor is 3000 lines as he usually do, you can contact me by ```python H4xton#1337```
+This Executor is Proof-of-Concept which means its not always hard so keep going also if Nk or any other retards claim statements like executor is 3000 lines as he usually do, you can contact me by ```py H4xton#1337```
